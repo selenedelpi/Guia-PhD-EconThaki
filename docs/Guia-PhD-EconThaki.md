@@ -868,7 +868,7 @@ Algunas fuentes de financiamiento aplicables a programas de Estados Unidos y Eur
 Para todo tipo de programa de posgrado:
 
 - [PRONABEC: Beca Bicentenario](https://www.pronabec.gob.pe/beca-presidente/): 
-Fulbright. Por parte de la embajada de Estados Unidos. Cubre asesoramiento para la admisión a universidades de Estados Unidos y hasta 25,000 USD anuales de financiamiento, con la condición de estar fuera de Estados Unidos por unos años después de terminar el programa.
+- [Fulbright] (https://www.fulbright.pe/): Por parte de la embajada de Estados Unidos. Cubre asesoramiento para la admisión a universidades de Estados Unidos y hasta 25,000 USD anuales de financiamiento, con la condición de estar fuera de Estados Unidos por unos años después de terminar el programa.
 - Beca Knight-Hennessy Scholars: Es una beca completa de la universidad de Stanford para estudiar cualquiera de sus programas a nivel maestría o doctorado.
 - [Programa de beca de excelencia Eiffel](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence): Beca completa para estudiar un posgrado en Francia en las siguientes áreas: Derecho, Economía y Gestión, Ingeniería, Ciencias Exactas y Ciencias Sociales.
 - Becas Erasmus Mundus: Beca completa para estudiar un posgrado en Europa.
